@@ -1,8 +1,6 @@
+Kindly Read the Below Documentation carefully...
 
-
-Version 1.1 : Kindly Read the Below Documentation carefully...
-
-# What I've completed
+# My work
 
 1. Used Color Theory for the Application UI.  
 2. Resized MarkBoot Logo,  
@@ -15,12 +13,6 @@ Version 1.1 : Kindly Read the Below Documentation carefully...
 9. Solved IOS side errors,  
 10. Made Screens more Responsive,  
 11. Created Role-Based authorization.  
-
-# What needs to be worked on.
-
-1. User side UI,  
-2. Ui In some areas of Admin side,  
-3. some basic backend for connection between user and admin.
 
 # ScreenShots of the Application. 
 ![](Screen1.png)
