@@ -12,6 +12,10 @@
 10. Made Screens more Responsive,  
 11. Created Role-Based authorization.  
 
+# Basic Architecture of My New Code Pattern
+
+![](Structure.png)
+
 # ScreenShots of the Application. 
 ![](Screen1.png)
 
