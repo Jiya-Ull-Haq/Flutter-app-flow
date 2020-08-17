@@ -1,5 +1,3 @@
-Kindly Read the Below Documentation carefully...
-
 # My work
 
 1. Used Color Theory for the Application UI.  
