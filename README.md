@@ -6,11 +6,10 @@
 4. Changed the Code Pattern,  
 5. Solved Database issues,  
 6. Solved the Login Issue,  
-7. Remodelled logo,  
-8. Changed the UI of the Application,  
-9. Solved IOS side errors,  
-10. Made Screens more Responsive,  
-11. Created Role-Based authorization.  
+7. Changed the UI of the Application,  
+8. Solved IOS side errors,  
+9. Made Screens more Responsive,  
+10. Created Role-Based authorization.  
 
 # Basic Architecture of My Code
 
